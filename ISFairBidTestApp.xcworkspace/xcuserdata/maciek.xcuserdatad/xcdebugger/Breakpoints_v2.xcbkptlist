@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C4CE2F5-91DB-447F-83C5-1E4FBB00B03C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "5D018A24-52E5-4CA4-8F18-AD53EAE9CEE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "-[ISIronSourceAdapter adInstanceFailedToLoad:error:withConfiguration:]"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "5D018A24-52E5-4CA4-8F18-AD53EAE9CEE7 - 8391ac752d3bedfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ISIronSourceAdapter adInstanceFailedToLoad:error:withConfiguration:]"
+                  moduleName = "ISFairBidTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/lib/jenkins/workspace/IOS-SSP-unit-testing-develop-release-master-hotfix-branches/UltraSDK/UltraSDK/ISIronSourceAdapter.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "360"
+                  endingLineNumber = "360"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
