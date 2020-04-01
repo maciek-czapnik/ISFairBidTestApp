@@ -1,0 +1,56 @@
+## Build generated
+build/
+DerivedData/
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+Pods/
+
+# Xcode
+.DS_Store
+*/build/*
+*/output/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+xcuserdata/*
+*.xcbkptlist
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+*.ipa
+*.dSYM.zip
+*.gcda
+*.gcno
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Build Scripts
+*.pyc
+
+# Build Directories
+ads-sdk-build
+sdk-build
+sdk-products-build
+integrationTestResults
+
+# Rake
+.byebug_history
+
+# Fastlane
+fastlane/report.xml
